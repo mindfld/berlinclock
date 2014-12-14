@@ -7,3 +7,5 @@ classes/
 .settings/
 *.iml
 
+/*.ipr
+/*.iws
